@@ -17,3 +17,6 @@ public class JokeServiceImpl implements JokeService {
         return chuckNorrisQuotes.getRandomQuote();
     }
 }
+
+
+// 4. Create Spring MVC Jokes controller
